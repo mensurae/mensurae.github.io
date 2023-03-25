@@ -1,2 +1,3 @@
-# mensurae.github.io
-Website
+# Mensurae - Measurements
+
+*a mensurae ad perspectionem*
